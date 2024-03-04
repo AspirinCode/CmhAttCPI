@@ -52,3 +52,12 @@ bash Run_Predicting.sh
 ### Data
 ## Four CPI datasets: BindingDB, DrugBank, GPCR and Davis
 The datsets BindingDB.txt, DrugBank.txt, GPCR.txt and Davis.txt used in this study are provided at https://drive.google.com/drive/folders/1lfVZNHlpgdlBhozK_oeS1upU8NvpBOx6?usp=sharing
+
+
+
+## Cite:
+
+* M. Wang, J. Wang, Z. Rong, L. Wang, Z. Xu, L. Zhang, J. He, S. Li, L. Cao, Y. Hou, K. Li, A bidirectional interpretable compound-protein interaction prediction framework based on cross attention, Computers in Biology and Medicine (2024), doi: https://doi.org/10.1016/j.compbiomed.2024.108239.
+
+
+
